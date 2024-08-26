@@ -12,7 +12,7 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Aastha-Bhatia/whac-a-mole.git
+   git clone https://github.com/Aastha-Bhatia/Wac-A-Mole-Game---Java
    ```
 2. Navigate to the project directory:
    ```sh
