@@ -20,7 +20,7 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
    ```
 3. Compile the Java files:
    ```sh
-   javac *.java
+   javac App.java
    ```
 4. Run the application:
    ```sh
