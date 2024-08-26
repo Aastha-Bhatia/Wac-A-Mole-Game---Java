@@ -16,7 +16,7 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
    ```
 2. Navigate to the project directory:
    ```sh
-   cd whac-a-mole
+   cd WackAMole/WackAMole
    ```
 3. Compile the Java files:
    ```sh
