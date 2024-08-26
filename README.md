@@ -42,7 +42,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Aastha Bhatia
 
 ## Special Thanks
-I learned how to create this game by following tutorials from @ImKennyYip (Github). Their guidance was invaluable in helping me get started with Java game development.
+Thanks to Kenny YiP Coding for the tutorials that helped me learn and build this game. 
 
 Connect with me on https://www.linkedin.com/in/aasthabhatia-er/
 
