@@ -38,5 +38,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Java**: The programming language used to create this game.
 - **Icon Images**: Used for moles and plants.
 
+## Created By
+Aastha Bhatia
+Connect with me on https://www.linkedin.com/in/aasthabhatia-er/
+
 Feel free to contribute or provide feedback!
 Feel free to adjust the content as needed to better fit your project or personal preferences!
