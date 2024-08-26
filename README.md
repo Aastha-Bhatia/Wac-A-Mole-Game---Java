@@ -41,6 +41,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Created By
 Aastha Bhatia
 
+## Special Thanks
+I learned how to create this game by following tutorials from @ImKennyYip (Github). Their guidance was invaluable in helping me get started with Java game development.
+
 Connect with me on https://www.linkedin.com/in/aasthabhatia-er/
 
 Feel free to contribute or provide feedback!
