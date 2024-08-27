@@ -110,7 +110,7 @@ public class WhacAMole {
       }
 
       // the value of timer is in millisecond, for eg. 1000ms=1second;
-      setMoleTimer = new Timer(400, new ActionListener() {
+      setMoleTimer = new Timer(700, new ActionListener() {
          public void actionPerformed(ActionEvent e) {
             if (currMoleTile != null) {
                currMoleTile.setIcon(null);
@@ -130,7 +130,7 @@ public class WhacAMole {
             currMoleTile.setIcon(moleIcon);
          }
       });
-      setPlantTimer = new Timer(500, new ActionListener() {
+      setPlantTimer = new Timer(710, new ActionListener() {
          public void actionPerformed(ActionEvent e) {
             if (currPlantTile != null) {
                currPlantTile.setIcon(null);
