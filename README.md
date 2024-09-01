@@ -12,11 +12,12 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
 ## Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/Aastha-Bhatia/Wac-A-Mole-Game---Java
+   git clone https://github.com/Aastha-Bhatia/Wac-A-Mole---Java.git
+
    ```
 2. Navigate to the project directory:
    ```sh
-   WackAMole/WackAMole/src/App.java
+   cd Wac-A-Mole---Java/WackAMole/src
    ```
 3. Compile the Java files:
    ```sh
