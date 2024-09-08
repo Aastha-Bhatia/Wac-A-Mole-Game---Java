@@ -1,8 +1,14 @@
-This README provides an overview of the game, installation instructions, and licensing details:
-
 # Mario: Whac-A-Mole
 
 Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must whack moles popping up from the ground while avoiding a sneaky poisonous plant! Developed using Java, this game is designed for entertainment and quick reflexes.
+
+## Screenshots
+Here are some screenshots of the game:
+
+![Game Screenshot 1](GameScreenshot1.png)
+![Game Screenshot 2](GameScreenshot2.png)
+![Game Screenshot 1](GameScreenshot3.png)
+![Game Screenshot 2](GameScreenshot4.png) 
 
 ## Features
 - **Game Interface**: A vibrant GUI with a start screen and a game board.
@@ -31,14 +37,6 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
 ## Usage
 - **Start the Game**: Click the "START GAME" button on the welcome screen.
 - **Gameplay**: Click on the moles to increase your score. Avoid the Piranha plant, which ends the game.
-  
-## Screenshots
-Here are some screenshots of the game:
-
-![Game Screenshot 1](GameScreenshot1.png)
-![Game Screenshot 2](GameScreenshot2.png)
-![Game Screenshot 1](GameScreenshot3.png)
-![Game Screenshot 2](GameScreenshot4.png) 
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
