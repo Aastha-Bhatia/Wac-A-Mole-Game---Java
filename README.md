@@ -31,6 +31,14 @@ Welcome to **Mario: Whac-A-Mole**—a fun and engaging game where players must w
 ## Usage
 - **Start the Game**: Click the "START GAME" button on the welcome screen.
 - **Gameplay**: Click on the moles to increase your score. Avoid the Piranha plant, which ends the game.
+  
+## Screenshots
+Here are some screenshots of the game:
+
+![Game Screenshot 1](GameScreenshot1.png)
+![Game Screenshot 2](GameScreenshot2.png)
+![Game Screenshot 1](GameScreenshot3.png)
+![Game Screenshot 2](GameScreenshot4.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
