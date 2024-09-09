@@ -17,6 +17,7 @@ public class WelcomePage {
         welcomeFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         welcomeFrame.setLayout(new BorderLayout());
 
+        // icon image currently not added due to complications
         // Set the icon image
         ImageIcon icon = new ImageIcon(getClass().getResource("/monty.png"));
         welcomeFrame.setIconImage(icon.getImage());
@@ -55,19 +56,33 @@ public class WelcomePage {
         aboutPanel.add(aboutText,BorderLayout.CENTER);
         welcomeFrame.add(aboutPanel,BorderLayout.CENTER);
 
-        startButton.setFont(new Font("Arial",Font.PLAIN,30));
+        // Panel to hold both the start button and footer label
+        JPanel southPanel = new JPanel(new BorderLayout());
+        southPanel.setBackground(Color.BLACK);
+
+        JLabel footerLabel = new JLabel("Developed by Aastha", JLabel.CENTER);
+        footerLabel.setFont(new Font("Arial", Font.PLAIN, 14));
+        footerLabel.setForeground(Color.decode("#F5F5DC"));
+        footerLabel.setOpaque(true);
+        footerLabel.setBackground(Color.BLACK);
+        footerLabel.setEnabled(false);
+        southPanel.add(footerLabel, BorderLayout.NORTH);
+
+        startButton.setFont(new Font("Arial", Font.PLAIN, 30));
         startButton.setBackground(Color.decode("#F5F5DC"));
         startButton.setForeground(Color.BLACK);
         startButton.setFocusable(false);
-        welcomeFrame.add(startButton,BorderLayout.SOUTH);
-        
+        southPanel.add(startButton, BorderLayout.SOUTH);
+
+        welcomeFrame.add(southPanel, BorderLayout.SOUTH);
 
         startButton.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e){
-                welcomeFrame.dispose(); //closes
-                new WhacAMole(); //start the game
+            public void actionPerformed(ActionEvent e) {
+                welcomeFrame.dispose(); // closes
+                new WhacAMole(); // start the game
             }
         });
+
         welcomeFrame.setVisible(true);
     }
     }
